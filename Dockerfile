@@ -114,9 +114,6 @@ RUN set -ex \
 ENV PATH /usr/local/bin:$PATH
 ENV PATH /var/www/html/bin:$PATH
 
-RUN mkdir -p /var/www/rr2017
-WORKDIR /var/www/rr2017
-
 # Install composer
 # See https://getcomposer.org/doc/faqs/how-to-install-composer-programmatically.md
 RUN curl -s https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
