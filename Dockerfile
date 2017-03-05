@@ -118,8 +118,6 @@ RUN set -xe \
 		--with-libedit \
 		--with-openssl \
 		--with-zlib \
-		--with-fpm-user=nobody \
-		--with-fpm-group=nobody \
 		--with-openssl \
 		--with-pdo-mysql \
 		\
