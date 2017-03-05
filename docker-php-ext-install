@@ -32,7 +32,7 @@
   
   <meta name="pjax-timeout" content="1000">
   
-  <meta name="request-id" content="252A:7C99:156728B:20A6A6A:58BBB829" data-pjax-transient>
+  <meta name="request-id" content="2730:7C98:106666D:18B9E98:58BBBD02" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -41,7 +41,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="252A:7C99:156728B:20A6A6A:58BBB829" name="octolytics-dimension-request_id" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="2730:7C98:106666D:18B9E98:58BBBD02" name="octolytics-dimension-request_id" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -54,10 +54,10 @@
   <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="NDNmMDAzMDMwNGY4ZDk2ZGJkZGRhNDgwOGU5YmQwNTNlZjI2NzBiZTRjYWJkN2RmNWIwMDEwZWM0ZWViMWQ4ZXx7InJlbW90ZV9hZGRyZXNzIjoiMTI1LjIzMC45MS4yNTAiLCJyZXF1ZXN0X2lkIjoiMjUyQTo3Qzk5OjE1NjcyOEI6MjBBNkE2QTo1OEJCQjgyOSIsInRpbWVzdGFtcCI6MTQ4ODY5NzM4NiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="YjU2YWE3NGE5NjdkODJlOTRmOTYxMzE5OTliYzM2MTZhYmFlNjYyODdhNDQzZjA5YjJiYzYyYTcxZTdiZGM2Y3x7InJlbW90ZV9hZGRyZXNzIjoiMTI1LjIzMC45MS4yNTAiLCJyZXF1ZXN0X2lkIjoiMjczMDo3Qzk4OjEwNjY2NkQ6MThCOUU5ODo1OEJCQkQwMiIsInRpbWVzdGFtcCI6MTQ4ODY5ODYyNiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
 
-  <meta name="html-safe-nonce" content="cf0c0321a078c0b8406e803639ac329dbd3a2f17">
+  <meta name="html-safe-nonce" content="ffd206c2be3e654dcaeb7be0e4a11f723306e6b0">
 
   <meta http-equiv="x-pjax-version" content="dc5b71228a97b330f4c8330ad3bfb8a1">
   
@@ -70,7 +70,7 @@
   <link href="https://github.com/docker-library/php/commits/0792ba42f0ea7435ceb26b42a066274e028b30e3.atom" rel="alternate" title="Recent Commits to php:0792ba42f0ea7435ceb26b42a066274e028b30e3" type="application/atom+xml">
 
 
-    <link rel="canonical" href="https://github.com/docker-library/php/blob/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/alpine/docker-php-ext-install" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/docker-library/php/blob/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/docker-php-ext-install" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -137,7 +137,7 @@
 </form></div>
 
 
-          <a class="text-bold site-header-link" href="/login?return_to=%2Fdocker-library%2Fphp%2Fblob%2F0792ba42f0ea7435ceb26b42a066274e028b30e3%2F7.0%2Ffpm%2Falpine%2Fdocker-php-ext-install" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+          <a class="text-bold site-header-link" href="/login?return_to=%2Fdocker-library%2Fphp%2Fblob%2F0792ba42f0ea7435ceb26b42a066274e028b30e3%2F7.0%2Ffpm%2Fdocker-php-ext-install" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
             <span class="text-gray">or</span>
             <a class="text-bold site-header-link" href="/join?source=header-repo" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
       </div>
@@ -279,9 +279,9 @@
 
     
 
-<a href="/docker-library/php/blob/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/alpine/docker-php-ext-install" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/docker-library/php/blob/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/docker-php-ext-install" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:7f1e3f0ce52a4b3ce5b456268e7a63bb -->
+<!-- blob contrib key: blob_contributors:v21:183c26bf928e489aba27cd25a180d98f -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -323,7 +323,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/docker-library/php/blob/master/7.0/fpm/alpine/docker-php-ext-install"
+               href="/docker-library/php/blob/master/7.0/fpm/docker-php-ext-install"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -360,7 +360,7 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/docker-library/php/tree/0792ba42f0ea7435ceb26b42a066274e028b30e3"><span>php</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/docker-library/php/tree/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0"><span>7.0</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/docker-library/php/tree/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm"><span>fpm</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/docker-library/php/tree/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/alpine"><span>alpine</span></a></span><span class="separator">/</span><strong class="final-path">docker-php-ext-install</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/docker-library/php/tree/0792ba42f0ea7435ceb26b42a066274e028b30e3"><span>php</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/docker-library/php/tree/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0"><span>7.0</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/docker-library/php/tree/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm"><span>fpm</span></a></span><span class="separator">/</span><strong class="final-path">docker-php-ext-install</strong>
   </div>
 </div>
 
@@ -370,7 +370,7 @@
         <a class="commit-tease-sha" href="/docker-library/php/commit/9f2e76eeba464f20798faaea172416340e3099c1" data-pjax>
           9f2e76e
         </a>
-        <relative-time datetime="2016-12-12T23:21:44Z">Dec 13, 2016</relative-time>
+        <relative-time datetime="2016-12-12T23:21:44Z">Dec 12, 2016</relative-time>
       </span>
       <div>
         <img alt="@yosifkit" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/896423?v=3&amp;s=40" width="20" />
@@ -380,13 +380,14 @@
 
     <div class="commit-tease-contributors">
       <button type="button" class="btn-link muted-link contributors-toggle" data-facebox="#blob_contributors_box">
-        <strong>4</strong>
+        <strong>5</strong>
          contributors
       </button>
-          <a class="avatar-link tooltipped tooltipped-s" aria-label="tianon" href="/docker-library/php/commits/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/alpine/docker-php-ext-install?author=tianon"><img alt="@tianon" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/161631?v=3&amp;s=40" width="20" /> </a>
-    <a class="avatar-link tooltipped tooltipped-s" aria-label="ncopa" href="/docker-library/php/commits/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/alpine/docker-php-ext-install?author=ncopa"><img alt="@ncopa" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/66357?v=3&amp;s=40" width="20" /> </a>
-    <a class="avatar-link tooltipped tooltipped-s" aria-label="yosifkit" href="/docker-library/php/commits/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/alpine/docker-php-ext-install?author=yosifkit"><img alt="@yosifkit" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/896423?v=3&amp;s=40" width="20" /> </a>
-    <a class="avatar-link tooltipped tooltipped-s" aria-label="shouze" href="/docker-library/php/commits/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/alpine/docker-php-ext-install?author=shouze"><img alt="@shouze" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/54712?v=3&amp;s=40" width="20" /> </a>
+          <a class="avatar-link tooltipped tooltipped-s" aria-label="tianon" href="/docker-library/php/commits/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/docker-php-ext-install?author=tianon"><img alt="@tianon" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/161631?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="yosifkit" href="/docker-library/php/commits/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/docker-php-ext-install?author=yosifkit"><img alt="@yosifkit" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/896423?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="ncopa" href="/docker-library/php/commits/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/docker-php-ext-install?author=ncopa"><img alt="@ncopa" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/66357?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="marceloandrader" href="/docker-library/php/commits/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/docker-php-ext-install?author=marceloandrader"><img alt="@marceloandrader" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/57552?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="shouze" href="/docker-library/php/commits/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/docker-php-ext-install?author=shouze"><img alt="@shouze" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/54712?v=3&amp;s=40" width="20" /> </a>
 
 
     </div>
@@ -399,12 +400,16 @@
             <a href="/tianon">tianon</a>
           </li>
           <li class="facebox-user-list-item">
+            <img alt="@yosifkit" height="24" src="https://avatars1.githubusercontent.com/u/896423?v=3&amp;s=48" width="24" />
+            <a href="/yosifkit">yosifkit</a>
+          </li>
+          <li class="facebox-user-list-item">
             <img alt="@ncopa" height="24" src="https://avatars0.githubusercontent.com/u/66357?v=3&amp;s=48" width="24" />
             <a href="/ncopa">ncopa</a>
           </li>
           <li class="facebox-user-list-item">
-            <img alt="@yosifkit" height="24" src="https://avatars1.githubusercontent.com/u/896423?v=3&amp;s=48" width="24" />
-            <a href="/yosifkit">yosifkit</a>
+            <img alt="@marceloandrader" height="24" src="https://avatars2.githubusercontent.com/u/57552?v=3&amp;s=48" width="24" />
+            <a href="/marceloandrader">marceloandrader</a>
           </li>
           <li class="facebox-user-list-item">
             <img alt="@shouze" height="24" src="https://avatars1.githubusercontent.com/u/54712?v=3&amp;s=48" width="24" />
@@ -420,9 +425,9 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/docker-library/php/raw/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/alpine/docker-php-ext-install" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/docker-library/php/blame/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/alpine/docker-php-ext-install" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/docker-library/php/commits/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/alpine/docker-php-ext-install" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/docker-library/php/raw/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/docker-php-ext-install" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/docker-library/php/blame/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/docker-php-ext-install" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/docker-library/php/commits/0792ba42f0ea7435ceb26b42a066274e028b30e3/7.0/fpm/docker-php-ext-install" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -981,7 +986,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2017 <span title="0.05554s from github-fe-fdcdb84.cp1-iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2017 <span title="0.05339s from github-fe125-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
