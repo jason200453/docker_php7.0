@@ -24,7 +24,6 @@ RUN apt-get update && apt-get install -y \
 		libsqlite3-0 \
 		libxml2 \
 		xz-utils \
-		openssl-devel \
 		wget \
 	--no-install-recommends && rm -r /var/lib/apt/lists/*
 
