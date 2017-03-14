@@ -1,4 +1,6 @@
 FROM php:7.0-fpm
+ENV PHP_INI_DIR /usr/local/etc
+COPY php.ini ${PHP_INI_DIR}
 RUN pecl install xdebug \
 && docker-php-ext-enable xdebug
 RUN apt-get update && apt-get install -y \
