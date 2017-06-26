@@ -13,5 +13,5 @@ RUN apt-get update && apt-get install -y \
 && docker-php-ext-install -j$(nproc) gd
 RUN docker-php-ext-install pdo pdo_mysql mysqli json
 RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
-RUN apt-get update && apt-get install -y git zip unzip
-WORKDIR /var/www/rr2017/
+RUN apt-get update && apt-get install -y zip unzip
+WORKDIR /var/www/
